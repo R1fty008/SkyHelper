@@ -1,0 +1,26 @@
+{
+    "schemaVersion": 1,
+    "id": "skyhelper",
+    "version": "1.0.0",
+    "name": "SkyHelper",
+    "description": "An all-in-one Hypixel Skyblock helper mod with calculator, chat tools, and HUD overlays",
+    "authors": [],
+    "contact": {},
+    "license": "MIT",
+    "environment": "client",
+    "entrypoints": {
+        "client": [
+            "com.skyhelper.SkyHelperMod"
+        ]
+    },
+    "mixins": [
+        "skyhelper.mixins.json"
+    ],
+    "accessWidener": "skyhelper.accesswidener",
+    "depends": {
+        "fabricloader": ">=0.18.5",
+        "minecraft": "~1.21.10",
+        "java": ">=21",
+        "fabric-api": "*"
+    }
+}
