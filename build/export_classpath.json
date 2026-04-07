@@ -1,0 +1,14 @@
+{
+  "projectPath": ":",
+  "classpaths": {
+    "test": [
+      "C:\\Users\\codyc\\Documents\\Claude Code\\SkyHelper\\build\\classes\\java\\test",
+      "C:\\Users\\codyc\\Documents\\Claude Code\\SkyHelper\\build\\resources\\test"
+    ],
+    "main": [
+      "C:\\Users\\codyc\\Documents\\Claude Code\\SkyHelper\\build\\classes\\java\\main",
+      "C:\\Users\\codyc\\Documents\\Claude Code\\SkyHelper\\build\\resources\\main",
+      "C:\\Users\\codyc\\Documents\\Claude Code\\SkyHelper\\build\\devlibs\\SkyHelper-1.0.0-dev.jar"
+    ]
+  }
+}
