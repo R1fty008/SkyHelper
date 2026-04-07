@@ -1,0 +1,12 @@
+{
+    "required": true,
+    "package": "com.skyhelper.features.chatcopy.mixin",
+    "compatibilityLevel": "JAVA_21",
+    "client": [
+        "ChatComponentAccessor",
+        "ChatScreenMixin"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}
